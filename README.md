@@ -1,4 +1,3 @@
-[README_2.md](https://github.com/user-attachments/files/34655835/README_2.md)
 # Cyclistic Bike-Share Analysis
 
 **Google Data Analytics Certificate: Capstone Project**
